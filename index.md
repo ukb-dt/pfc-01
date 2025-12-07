@@ -11,7 +11,7 @@ Let me map it properly.
 
 <div class="youtube-responsive">
   <iframe
-    src="https://www.youtube-nocookie.com/embed/3hptKYix4X8?start=180"      https://www.youtube.com/watch?v=
+    src="https://www.youtube-nocookie.com/embed/3hptKYix4X8?start=180"     
     title="YouTube video player"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
