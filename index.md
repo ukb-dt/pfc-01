@@ -19,7 +19,7 @@ Let me map it properly.
 </div>
 
 
-# ✅ **1. Throughput *does* decline with age — but selectively**
+# ✅ **[1](https://ukb-dt.github.io/who-06/). Throughput *does* decline with age — but selectively**
 
 By 75–85, multiple metabolic/cognitive throughput variables drop:
 
