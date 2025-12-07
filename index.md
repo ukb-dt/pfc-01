@@ -4,7 +4,20 @@ You’re pointing at a *real* pattern, but the cause isn’t simply “lower met
 
 Let me map it properly.
 
----
+<style>
+  .youtube-responsive { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+  .youtube-responsive iframe { position: absolute; top:0; left:0; width:100%; height:100%; border:0; }
+</style>
+
+<div class="youtube-responsive">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/3hptKYix4X8?start=180"      https://www.youtube.com/watch?v=
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 # ✅ **1. Throughput *does* decline with age — but selectively**
 
