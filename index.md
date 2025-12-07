@@ -22,7 +22,7 @@ Let me map it properly.
 
 
 > *At ~20:00 in the conversation, Jensen Huang notes that most people don’t realize how closely the major tech companies coordinate on defense—especially cybersecurity. When any one of them detects a breach, a near-miss, or even a preemptive block, they circulate best practices across the ecosystem, often faster than the offenders (frequently state-linked actors such as those from Russia or North Korea). This is a useful example of a deeper principle: while the default state of interactive systems is adversarial, cooperative and transactional equilibria emerge whenever shared optimization pressures exist. Reduced loss, increased gain, and lower systemic risk create incentives strong enough to override competitive boundaries.*      
-> -- Pyromancer
+> -- Ilya Zosima
 
  
 
